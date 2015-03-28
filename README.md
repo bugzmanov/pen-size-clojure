@@ -1,5 +1,5 @@
 # pen-size-clojure
-Just a simple clojure project that calculates "lines of code" per contributor. I'm using it mostly to undertand how many lines of code of authors who started the project are stil active in master ) 
+Just a simple clojure project that calculates "lines of code" per contributor. I'm using it mostly to undertand how many lines of code produced by original project contributors are stil active in master ) 
 
 Usage
 
